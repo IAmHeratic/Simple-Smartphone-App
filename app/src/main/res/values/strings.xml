@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmartPhones</string>
+
+    <string-array name="colors">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+    </string-array>
+
+    <string name="view_specs">View Specs</string>string>
+    <string name="view_image">View Image</string>string>
+    <string name="view_web">View Website</string>string>
+
+    <item type="id" name="os"/>
+    <item type="id" name="ram"/>
+    <item type="id" name="cpu"/>
+    <item type="id" name="battery"/>
+
+</resources>
